@@ -1,4 +1,4 @@
-# ⚔️ Global Arsenal Intelligence
+⚔️ Global Arsenal Intelligence
 
 > Análise de 10.000 sistemas de armas militares | 128 países | 1933–2024
 
@@ -33,15 +33,15 @@ perguntas reais sobre o poder militar global.
 
 ## 📦 Dataset
 
-| Atributo            | Detalhe                           |
-|---------------------|-----------------------------------|
-| Linhas              | 10.000                            |
-| Colunas utilizadas  | 29 (7 removidas por baixa relevância) |
-| Países de origem    | 128                               |
-| Período coberto     | 1933 – 2024                       |
-| Categorias de armas | 11                                |
-| Fonte principal     | [Kaggle — abbas829](https://www.kaggle.com/datasets/abbas829/e-commerce-sales-analytics-dataset) |
-| Fonte complementar  | [Kaggle — maulikgajera](https://www.kaggle.com/datasets/maulikgajera/global-military-arsenal-dataset-weapons-systems) |
+| Atributo            | Detalhe                                                                                                                               |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| Linhas              | 10.000                                                                                                                                |
+| Colunas utilizadas  | 29 (7 removidas por baixa relevância)                                                                                                 |
+| Países de origem    | 128                                                                                                                                   |
+| Período coberto     | 1933 – 2024                                                                                                                           |
+| Categorias de armas | 11                                                                                                                                    |
+| Fonte principal     | [Kaggle — abbas829](https://www.kaggle.com/datasets/abbas829/global-military-arsenal-dataset-weapons-systems)                        |
+| Fonte complementar  | [Kaggle — maulikgajera](https://www.kaggle.com/datasets/maulikgajera/global-military-arsenal-dataset-weapons-systems)                |
 
 ---
 
@@ -60,3 +60,38 @@ perguntas reais sobre o poder militar global.
 ---
 
 ## 📁 Estrutura do Projeto
+ArmsTrack-1933-2024/
+│
+
+├── ArmsTrack.ipynb       # Notebook principal com toda a análise
+
+├── ArmsTrack.csv         # Dataset principal
+
+├── requirements.txt      # Dependências do projeto
+
+└── README.md             # Documentação
+
+---
+
+## 🚀 Como Executar
+
+```bash
+# Clone o repositório
+git clone https://github.com/Davibzf/ArmsTrack-1933-2024.git
+
+# Entre na pasta
+cd ArmsTrack-1933-2024
+
+# Instale as dependências
+pip install pandas plotly nbformat
+
+# Abra o notebook
+jupyter notebook ArmsTrack.ipynb
+```
+
+---
+
+## ⚠️ Aviso
+
+> Este projeto utiliza dados públicos e destina-se exclusivamente a fins acadêmicos e educacionais.
+> Nenhuma informação classificada ou restrita está contida no dataset analisado.

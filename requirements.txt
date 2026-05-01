@@ -1,0 +1,24 @@
+---
+
+## 🚀 Como Executar
+
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/ArmsTrack.git
+
+# Entre na pasta
+cd ArmsTrack
+
+# Instale as dependências
+pip install pandas plotly nbformat
+
+# Abra o notebook
+jupyter notebook ArmsTrack.ipynb
+```
+
+---
+
+## ⚠️ Aviso
+
+> Este projeto utiliza dados públicos e destina-se exclusivamente a fins acadêmicos e educacionais.
+> Nenhuma informação classificada ou restrita está contida no dataset analisado.

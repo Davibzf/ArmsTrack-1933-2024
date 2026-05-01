@@ -51,11 +51,6 @@ perguntas reais sobre o poder militar global.
 |---------------|---------------|------------------------------------------|
 | Pandas        | ✅ Utilizado  | Manipulação e limpeza dos dados          |
 | Plotly        | ✅ Utilizado  | Visualizações interativas                |
-| NumPy         | 🔄 Planejado  | Operações numéricas                      |
-| Matplotlib    | 🔄 Planejado  | Visualizações estáticas                  |
-| Seaborn       | 🔄 Planejado  | Gráficos estatísticos                    |
-| Scikit-learn  | 🔄 Planejado  | Clustering e classificação               |
-| NLTK / spaCy  | 🔄 Planejado  | Análise de texto da coluna Notes         |
 
 ---
 
